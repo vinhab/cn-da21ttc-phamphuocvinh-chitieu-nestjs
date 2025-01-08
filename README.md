@@ -1,7 +1,6 @@
-Tên đề tài: Thiết kế website giới thiệu các sản phẩm khởi nghiệp của sinh viên trường Đại học Trà Vinh.
-
+Tên đề tài: Xây dựng website quản lí chi tiêu cá nhân
 SV thực hiện: Phạm Phước Vinh - 110121144
 
 Thông tin liên lạc:
   - Email: vinhne2603@gmail.com
-  - SĐT: 0823960931
+  - SĐT: 0363821946
